@@ -2,7 +2,7 @@
 
 # Based on Eva Design System [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />][link:eva] [![Build Status][badge:github-actions]][link:github-actions]
 
-## ⏬ Installation
+## Installation
 
 Make sure you have `npm/yarn` installed. After you've installed any of those, install `expo` by writing the following in your terminal console: `npm install -g expo-cli` or `yarn global add expo-cli`.
 
@@ -10,11 +10,11 @@ Now you're all set up. Navigate your way into the project's directory and write 
 
 Now write `expo start` and you're ready to go. A new window will pop-up in your default browser. This is your localhost's dashboard. Open up your favorite text editor/IDE and an Android/iOS simulator.
 
-## 📃 File Structure
+## File Structure
 Within the download you'll find the following directories and files:
 
 ```
-catsu-react/
+student.ts/
 ├── App.js
 ├── README.md
 ├── app.json
