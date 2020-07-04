@@ -52,22 +52,6 @@ student.ts/
 
 ```
 
-## 💡 Developer
-
-Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
-
-## 🔔 Support
-
-Fork or star this repository for support.
-
-## 🔕 Issues and Pull Requests
-
-Not accepting any issues and pull requests. 
-
-## ❌ No Scammer
-
-
-
 ## Key features:
  
 - Built with **TypeScript**.
@@ -75,16 +59,6 @@ Not accepting any issues and pull requests.
 - **40 ready-to-use stunning screens** – for any domain: e-commerce, social, fitness, etc. 
 - **Huge variety of customizable layouts**, use “as is” or add new blocks from the UI Kit.
 - **Integration with Eva Design System** allows you to create mobile application staying in brand style and get clean, consistency design
-
-## Documentation:
-
-This template is using [UI Kitten components][link:ui-kitten], [here you can find documentation and other useful articles][link:doc-ui-kitten].
-
-## Mobile backend Bundles
-
-Easy way to integrate UI Kitten with backend ([Java][link:ui-kitten-bundle-java], [.NET Core][link:ui-kitten-bundle-dotnet-core]).
-
-[<img src="https://i.imgur.com/HVNZQGR.jpg">][link:ui-kitten-bundles]
 
 ## How can I support the developers?
 
