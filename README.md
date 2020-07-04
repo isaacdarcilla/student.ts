@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i0.wp.com/www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png?fit=1024%2C300&ssl=1" width="400" align="center"></p>
 
-# Based on Kitten Tricks [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />][link:eva] [![Build Status][badge:github-actions]][link:github-actions]
+# Based on Eva Design System [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />][link:eva] [![Build Status][badge:github-actions]][link:github-actions]
 
 ## ⏬ Installation
 
