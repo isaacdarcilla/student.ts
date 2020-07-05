@@ -29,7 +29,7 @@ export const ThemesScreen = (): React.ReactElement => {
       insets='top'
       level='2'>
       <TopNavigation
-        title='Kitten Tricks'
+        title='Student Portal'
         alignment='center'
       />
       <Divider/>
